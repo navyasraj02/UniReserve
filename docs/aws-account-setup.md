@@ -1,0 +1,3 @@
+- MFA enabled
+- Monthly budget created
+- IAM user created (navya1)
